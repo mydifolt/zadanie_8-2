@@ -1,0 +1,26 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "zadanie js 2",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mydifolt/zadanie_8-2.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Piotr omaszuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mydifolt/zadanie_8-2/issues"
+  },
+  "homepage": "https://github.com/mydifolt/zadanie_8-2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
