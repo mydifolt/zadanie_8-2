@@ -1,5 +1,5 @@
 {
-  "name": "js",
+  "name": "script",
   "version": "1.0.0",
   "description": "zadanie js 2",
   "main": "scripts.js",
@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/mydifolt/zadanie_8-2#readme",
   "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "dependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.1.0"
   }
